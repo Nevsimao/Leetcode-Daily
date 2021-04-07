@@ -2,13 +2,13 @@
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 0  
+ :white_circle: Easy: 3  
  :large_blue_circle: Medium: 0  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
  :star: None
 
- __Total:__ 0
+ __Total:__ 1
  
 <!-- Template for each day
 
