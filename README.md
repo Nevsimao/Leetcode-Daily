@@ -25,6 +25,6 @@ __Focus for today:__ Heaps/Priority Queues
 __Focus for today:__ Top Interview Questions
 
 #### LeetCode
-1. :white_circle: [two-sum](https://leetcode.com/problems/two-sum/)
+1. :white_circle: As I'm doing the Top Interview Questions chaptor on Leetcode, today I worked with an Array. The question was given a sorted array nums, remove the duplicates in-place such that each element appears only once and returns the new length.
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
