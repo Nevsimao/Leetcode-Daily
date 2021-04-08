@@ -24,6 +24,6 @@ __Focus for today:__ Working with an Array
 __Focus for today:__ Working with an Array
 
 #### LeetCode
-1. :white_circle: The question was find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).
+1. :white_circle: The question was find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times). [The code](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
