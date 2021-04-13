@@ -24,7 +24,7 @@ __Focus for today:__ Working with an Array
 __Focus for today:__ Working with an Array
 
 #### LeetCode
-:white_circle: The question was find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times). [The code](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/)
+:white_circle: The question was find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times).
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
@@ -33,5 +33,37 @@ __Focus for today:__ Working with an Array
 
 #### LeetCode
 :white_circle: The question was Given an array, rotate the array to the right by k steps, where k is non-negative.
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 4
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 5
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 6
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order.
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 7
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Given a non-empty array of decimal digits representing a non-negative integer, increment one to the integer.
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
