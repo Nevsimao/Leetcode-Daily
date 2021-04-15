@@ -2,12 +2,12 @@
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 7  
+ :white_circle: Easy: 9  
  :large_blue_circle: Medium: 0  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
 
- __Total:__ 7
+ __Total:__ 9
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
