@@ -2,12 +2,12 @@
 
 __Difficulty Levels solved__
  
- :white_circle: Easy: 9  
+ :white_circle: Easy: 12  
  :large_blue_circle: Medium: 0  
  :red_circle: Hard: 0  
  :black_circle: Very Hard: 0  
 
- __Total:__ 9
+ __Total:__ 12
 
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
@@ -76,6 +76,30 @@ __Focus for today:__ Working with an Array
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
 ## Day 9
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 10
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 11
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 12
 __Focus for today:__ Working with an Array
 
 #### LeetCode
