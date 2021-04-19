@@ -106,3 +106,11 @@ __Focus for today:__ Working with an Array
 :white_circle: The question was Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated
 
 <!-- --------------------------------------------------------------------------------------------------------------------- -->
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
+## Day 13
+__Focus for today:__ Working with an Array
+
+#### LeetCode
+:white_circle: The question was Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated
+
+<!-- --------------------------------------------------------------------------------------------------------------------- -->
