@@ -1,2 +1,2 @@
-# code-every-day
+
 #### LeetCode
