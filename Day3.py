@@ -1,7 +1,6 @@
-### Given an integer array nums sorted in non-decreasing order, return an array of the squares of each number sorted in non-decreasing order.
+# Longest Substring Without Repeating Characters
 
-class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
-        for i in range(len(nums)):
-            nums[i] *= nums[i]
-        return sorted(nums)
+## Given a string s, find the length of the longest substring without repeating characters.
+
+### Solution (Python)
+
